@@ -15,6 +15,7 @@ pip install -r requirements.txt
 
 We have given some cases in directory `./cases` for a quick test, by running the follow command:
 ```bash
+cd Code-HOPE-AI
 python inference.py
 ```
 
