@@ -13,10 +13,10 @@ pip install -r requirements.txt
 
 ## 💾 Start Inference on Examples
 
-We have given some cases in directory `./cases` for a quick test, by running the follow command:
+We have given some cases in directory `./Code-HOPE-AI/cases` for a quick test, by running the follow command:
 ```bash
 cd Code-HOPE-AI
 python inference.py
 ```
 
-The visualization results will be saved to directory `./results`.
+The visualization results will be saved to directory `./Code-HOPE-AI/results`.
